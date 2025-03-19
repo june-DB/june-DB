@@ -1,16 +1,19 @@
-## Hi there 👋
+# June D.B
 
-<!--
-**june-DB/june-DB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Graduated highschool                                          (고졸)
 
-Here are some ideas to get you started:
+* Worked in Hanjin Transportation Co., Ltd                      (상하차)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Enrolled at Community College                                 (전문대)
+
+* Patient diagnosed with avascular necrosis of the femoral head (인공관절 달고 있음)
+
+
+
+## My Goals for 2025
+
+* Mount personal project called 'JewelFish'
+
+* Learn software development and basic design
+
+* Resume playing piano
