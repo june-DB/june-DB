@@ -1,12 +1,12 @@
 # June D.B
 
-* Graduated highschool                                          (고졸)
+* 🌈Graduated highschool                                          (고졸)
 
-* Worked in Hanjin Transportation Co., Ltd                      (상하차)
+* ❤️Worked in Hanjin Transportation Co., Ltd                      (상하차)
 
-* Enrolled at Community College                                 (전문대)
+* 😆Enrolled at Community College                                 (전문대)
 
-* Patient diagnosed with avascular necrosis of the femoral head (인공관절 달고 있음)
+* 🌟Patient diagnosed with avascular necrosis of the femoral head (인공관절 달고 있음)
 
 
 
