@@ -16,4 +16,4 @@
 
 * Learn software development and basic design
 
-* Resume playing piano
+* Resume playing the piano
