@@ -1,4 +1,4 @@
-# June D.B
+# June  D . B
 
 * 🌈Graduated highschool                                          (고졸)
 
@@ -12,7 +12,7 @@
 
 ## My Goals for 2025
 
-* Mount personal project called 'JewelFish'
+* Mount personal project called 'Jewelfish'
 
 * Learn software development and basic design
 
