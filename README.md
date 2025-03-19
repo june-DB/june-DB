@@ -10,7 +10,7 @@
 
 
 
-## My Goals for 2025
+## My Goals for '25
 
 * Mount personal project called 'Jewelfish'
 
