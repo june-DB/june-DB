@@ -1,4 +1,4 @@
-# June  D . B
+# About Me
 
 * 🌈Graduated highschool                                          (고졸)
 
