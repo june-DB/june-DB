@@ -15,5 +15,3 @@
 * Mount personal project called 'Jewelfish'
 
 * Learn software development and basic design
-
-* Resume playing the piano
